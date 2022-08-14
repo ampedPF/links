@@ -112,7 +112,7 @@ body {
     display: flex;
     justify-content: center;
     overflow: auto !important;
-    padding-top: 44px;
+    /* padding-top: 44px; */
     scrollbar-width: none;
 }
 
