@@ -38,6 +38,6 @@ const links = [
     {
         text: 'Ko-Fi',
         href: 'https://ko-fi.com/ampedpf',
-        icon: 'fas fa-ko-fi'
+        icon: 'fas fa-ko-fi' // This is a custom icon made with css from https://haliphax.dev/2022/06/ko-fi-icon-for-fontawesome
     }
 ];
