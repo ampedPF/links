@@ -1,3 +1,4 @@
+// Get icons from https://fontawesome.com/icons
 const links = [
     {
         text: 'Twitch',
