@@ -16,7 +16,7 @@ const links = [
     },
     {
         text: 'Spotify',
-        href: 'https://open.spotify.com/user/ampedpf?si=8f9c1588c01448fa',
+        href: 'https://open.spotify.com/user/ampedpf',
         icon: 'fab fa-spotify'
     },
     {

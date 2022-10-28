@@ -12,6 +12,7 @@ window.onload = function() {
         linkEl.appendChild(linkImage);
 
         var linkText = document.createElement("p");
+        linkText.classList = "linkText";
         linkText.textContent = link.text;
         linkEl.appendChild(linkText);
 
